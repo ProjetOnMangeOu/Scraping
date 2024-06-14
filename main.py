@@ -98,7 +98,7 @@ def getData(html: str, elemsource: str):
     json["name"] = testNone(soup.find("h1", {"class": "DUwDvf lfPIob"}))
     json["googleMapRating"] = testNone(soup.find("div", {"class": "F7nice"}))
     json["price"] = testNone(soup.find("span", {"aria-label": "Prix: Abordable"}))
-    json["adresse"] = testNone(soup.find("div", {"class": "AeaXub"}))
+    json["address"] = testNone(soup.find("div", {"class": "AeaXub"}))
     json["info"] = str(soup.find_all("div", {"class": "Io6YTe fontBodyMedium kR99db"}))
 
     heures = soup.find("div", {"class": ["t39EBf", "GUrTXd"]})
@@ -108,7 +108,7 @@ def getData(html: str, elemsource: str):
         json["heures"] = None
 
     json["services"] = testNone(soup.find("div", {"class": "E0DTEd"}))
-    json["type"] = testNone(soup.find("button", {"class": "DkEaL"}))
+    json["restaurantTypes"] = testNone(soup.find("button", {"class": "DkEaL"}))
     return json
 
 
@@ -121,7 +121,7 @@ def getDataAbout(html: str):
         for li in e.find_all("li",{"class":"hpLkke"}):
             elems.append([li.find("span").text,li.find("img",{"class":"grnAab"})["src"]])
         data[e.find("h2").text] = elems
-    return {"About":data}
+    return {"restaurantService":data}
 
 def saveHTML(html: str) -> None:
     with open("htmlSample2.html", "w", encoding="utf-8") as file:

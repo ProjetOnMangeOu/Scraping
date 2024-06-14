@@ -6,7 +6,7 @@
   "name":"Il Ristorante - Le restaurant italien de Lille",
   "googleMapRating":"4,2(2\u202f638)",
   "price":"\u20ac\u20ac",
-  "adresse":"\ue0c851 Rue des Tanneurs, 59000 Lille",
+  "address":"\ue0c851 Rue des Tanneurs, 59000 Lille",
   "info":"[<div class=\"Io6YTe fontBodyMedium kR99db\">51 Rue des Tanneurs, 59000 Lille<\/div>, <div class=\"Io6YTe fontBodyMedium kR99db\">Trouver une table<\/div>, <div class=\"Io6YTe fontBodyMedium kR99db\">Commander<\/div>, <div class=\"Io6YTe fontBodyMedium kR99db\">ilristorante.fr<\/div>, <div class=\"Io6YTe fontBodyMedium kR99db\">03 20 07 21 12<\/div>, <div class=\"Io6YTe fontBodyMedium kR99db\">Envoyer vers votre t\u00e9l\u00e9phone<\/div>, <div class=\"Io6YTe fontBodyMedium kR99db\"><span style=\"font-weight: 400;\">LGBTQ+ friendly<\/span><\/div>]",
   "heures":[
    "vendredi, de 11:30 \u00e0 14:30, de 18:30 \u00e0 22:30",
@@ -18,8 +18,8 @@
    " jeudi, de 11:30 \u00e0 14:30, de 18:30 \u00e0 22:00"
   ],
   "services":" \u00b7 Repas sur place \u00b7 Vente \u00e0 emporter \u00b7 Livraison",
-  "type":"Restaurant italien",
-  "About":{
+  "restaurantTypes":"Restaurant italien",
+  "restaurantService":{
    "Accessibilit\u00e9":[
     [
      "Entr\u00e9e accessible en fauteuil roulant",
@@ -247,11 +247,11 @@
  {
   "index":1,
   "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Pancook+Lille+Z%C3%A9nith\/data=!4m7!3m6!1s0x47c2d550a3fbd81f:0x4cea674bfafbed0e!8m2!3d50.6309238!4d3.0768063!16s%2Fg%2F11nn2gbsmd!19sChIJH9j7o1DVwkcRDu37-ktn6kw?authuser=0&hl=fr&rclk=1",
-  "image":"https:\/\/www.gstatic.com\/images\/icons\/material\/system_gm\/2x\/info_gm_grey_18dp.png",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipMh2jdisWZleo2-87EmfnhsU7AcjflEj_IypoQD=w408-h305-k-no",
   "name":"Pancook Lille Z\u00e9nith",
   "googleMapRating":"4,7(441)",
   "price":null,
-  "adresse":"\ue0c82 Av. du Pr\u00e9sident Hoover, 59000 Lille",
+  "address":"\ue0c82 Av. du Pr\u00e9sident Hoover, 59000 Lille",
   "info":"[<div class=\"Io6YTe fontBodyMedium kR99db\">2 Av. du Pr\u00e9sident Hoover, 59000 Lille<\/div>, <div class=\"Io6YTe fontBodyMedium kR99db\">pancook.fr<\/div>, <div class=\"Io6YTe fontBodyMedium kR99db\">03 74 95 46 46<\/div>, <div class=\"Io6YTe fontBodyMedium kR99db\">Envoyer vers votre t\u00e9l\u00e9phone<\/div>, <div class=\"Io6YTe fontBodyMedium kR99db\"><span style=\"font-weight: 400;\">LGBTQ+ friendly<\/span><\/div>]",
   "heures":[
    "vendredi, de 12:00 \u00e0 14:00, de 18:00 \u00e0 22:30",
@@ -263,8 +263,8 @@
    " jeudi, de 12:00 \u00e0 14:00, de 18:30 \u00e0 21:30"
   ],
   "services":" \u00b7 Repas sur place \u00b7 Vente \u00e0 emporter \u00b7 Livraison",
-  "type":"Restaurant fran\u00e7ais",
-  "About":{
+  "restaurantTypes":"Restaurant fran\u00e7ais",
+  "restaurantService":{
    "Accessibilit\u00e9":[
     [
      "Parking accessible en fauteuil roulant",
@@ -466,11 +466,11 @@
  {
   "index":2,
   "gmapLink":"https:\/\/www.google.fr\/maps\/place\/La+Fossetta\/data=!4m7!3m6!1s0x47c2d588a87f57d3:0x301d34b4a26422d5!8m2!3d50.634628!4d3.063033!16s%2Fg%2F1tdxdffz!19sChIJ01d_qIjVwkcR1SJkorQ0HTA?authuser=0&hl=fr&rclk=1",
-  "image":"https:\/\/www.gstatic.com\/images\/icons\/material\/system_gm\/2x\/info_gm_grey_18dp.png",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipMldZbv9zKXlC7APKDHze0UXNznu9eBXMgdL2AV=w426-h240-k-no",
   "name":"La Fossetta",
   "googleMapRating":"4,6(2\u202f370)",
   "price":"\u20ac\u20ac",
-  "adresse":"\ue0c815 Rue des Foss\u00e9s, 59000 Lille",
+  "address":"\ue0c815 Rue des Foss\u00e9s, 59000 Lille",
   "info":"[<div class=\"Io6YTe fontBodyMedium kR99db\">15 Rue des Foss\u00e9s, 59000 Lille<\/div>, <div class=\"Io6YTe fontBodyMedium kR99db\">Trouver une table<\/div>, <div class=\"Io6YTe fontBodyMedium kR99db\">lafossetta.fr<\/div>, <div class=\"Io6YTe fontBodyMedium kR99db\">03 20 57 80 77<\/div>, <div class=\"Io6YTe fontBodyMedium kR99db\">Envoyer vers votre t\u00e9l\u00e9phone<\/div>]",
   "heures":[
    "vendredi, de 12:00 \u00e0 14:00, de 19:00 \u00e0 22:00",
@@ -482,8 +482,8 @@
    " jeudi, de 12:00 \u00e0 14:00, de 19:00 \u00e0 22:00"
   ],
   "services":" \u00b7 Repas sur place \u00b7 Vente \u00e0 emporter \u00b7 Livraison",
-  "type":"Restaurant italien",
-  "About":{
+  "restaurantTypes":"Restaurant italien",
+  "restaurantService":{
    "Accessibilit\u00e9":[
     [
      "Places assises accessibles en fauteuil roulant",
@@ -667,7 +667,7 @@
   "name":"Restaurant S\u00e9bastopol",
   "googleMapRating":"4,7(863)",
   "price":"\u20ac\u20ac",
-  "adresse":"\ue0c81 Pl. S\u00e9bastopol, 59000 Lille",
+  "address":"\ue0c81 Pl. S\u00e9bastopol, 59000 Lille",
   "info":"[<div class=\"Io6YTe fontBodyMedium kR99db\">1 Pl. S\u00e9bastopol, 59000 Lille<\/div>, <div class=\"Io6YTe fontBodyMedium kR99db\">restaurantsebastopol.com<\/div>, <div class=\"Io6YTe fontBodyMedium kR99db\">03 20 13 13 38<\/div>, <div class=\"Io6YTe fontBodyMedium kR99db\">Envoyer vers votre t\u00e9l\u00e9phone<\/div>]",
   "heures":[
    "vendredi, de 12:00 \u00e0 14:00, de 19:00 \u00e0 22:00",
@@ -679,8 +679,8 @@
    " jeudi, de 12:00 \u00e0 14:00, de 19:00 \u00e0 22:00"
   ],
   "services":" \u00b7 Repas sur place \u00b7 Vente \u00e0 emporter \u00b7 Livraison",
-  "type":"Restaurant",
-  "About":{
+  "restaurantTypes":"Restaurant",
+  "restaurantService":{
    "Accessibilit\u00e9":[
     [
      "Entr\u00e9e accessible en fauteuil roulant",
@@ -830,11 +830,11 @@
  {
   "index":4,
   "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Quai+38\/data=!4m7!3m6!1s0x47c32a7c7bfe4df3:0x997e72c1609a2db2!8m2!3d50.6468332!4d3.0577148!16s%2Fg%2F1tg34cgy!19sChIJ803-e3wqw0cRsi2aYMFyfpk?authuser=0&hl=fr&rclk=1",
-  "image":"https:\/\/www.gstatic.com\/images\/icons\/material\/system_gm\/2x\/info_gm_grey_18dp.png",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipPfA4oJmoJEW0zh8tGYikpgrglr7Ib9uF1TmuwD=w408-h306-k-no",
   "name":"Quai 38",
   "googleMapRating":"4,8(760)",
   "price":null,
-  "adresse":"\ue0c838 Rue Saint-S\u00e9bastien, 59000 Lille",
+  "address":"\ue0c838 Rue Saint-S\u00e9bastien, 59000 Lille",
   "info":"[<div class=\"Io6YTe fontBodyMedium kR99db\">38 Rue Saint-S\u00e9bastien, 59000 Lille<\/div>, <div class=\"Io6YTe fontBodyMedium kR99db\">quai38-lille.fr<\/div>, <div class=\"Io6YTe fontBodyMedium kR99db\">03 20 42 10 68<\/div>, <div class=\"Io6YTe fontBodyMedium kR99db\">Envoyer vers votre t\u00e9l\u00e9phone<\/div>]",
   "heures":[
    "vendredi, de 12:00 \u00e0 15:30, de 19:30 \u00e0 23:30",
@@ -846,8 +846,8 @@
    " jeudi, de 12:00 \u00e0 15:30, de 19:30 \u00e0 23:30"
   ],
   "services":" \u00b7 Repas sur place \u00b7 Vente \u00e0 emporter \u00b7 Livraison",
-  "type":"Restaurant de poisson",
-  "About":{
+  "restaurantTypes":"Restaurant de poisson",
+  "restaurantService":{
    "Accessibilit\u00e9":[
     [
      "Entr\u00e9e accessible en fauteuil roulant",
