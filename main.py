@@ -83,17 +83,18 @@ def Scrolling(page, countFactor: int = 5) -> None:
             time.sleep(1)
         time.sleep(0.25)
 
+
 def testNone(x):
     return x.text if x is not None else None
+
 
 def getData(html: str, elemsource: str):
     sourceSoup = BeautifulSoup(elemsource.inner_html(), "html.parser")
 
-
     json = {}
     soup = BeautifulSoup(html, "html.parser")
 
-    json["gmapLink"] = sourceSoup.find("a",{"class":"hfpxzc"})["href"]
+    json["gmapLink"] = sourceSoup.find("a", {"class": "hfpxzc"})["href"]
     json["image"] = soup.find("img")["src"]
     json["name"] = testNone(soup.find("h1", {"class": "DUwDvf lfPIob"}))
     json["googleMapRating"] = testNone(soup.find("div", {"class": "F7nice"}))
@@ -114,14 +115,17 @@ def getData(html: str, elemsource: str):
 
 def getDataAbout(html: str):
     data = dict()
-    soup =BeautifulSoup(html, "html.parser")
+    soup = BeautifulSoup(html, "html.parser")
 
-    for e in soup.find_all("div",{"class":"iP2t7d fontBodyMedium"}):
+    for e in soup.find_all("div", {"class": "iP2t7d fontBodyMedium"}):
         elems = []
-        for li in e.find_all("li",{"class":"hpLkke"}):
-            elems.append([li.find("span").text,li.find("img",{"class":"grnAab"})["src"]])
+        for li in e.find_all("li", {"class": "hpLkke"}):
+            elems.append(
+                [li.find("span").text, li.find("img", {"class": "grnAab"})["src"]]
+            )
         data[e.find("h2").text] = elems
-    return {"restaurantService":data}
+    return {"restaurantService": data}
+
 
 def saveHTML(html: str) -> None:
     with open("htmlSample2.html", "w", encoding="utf-8") as file:
@@ -152,17 +156,17 @@ def waitChange(elem, page, timeS=0.1, occurence=0, maxOccurence=6):
         logger.warning("Max occurence")
         return False
     else:
-        logger.debug(f"{elemtitle},{elemScrapTitle}|")
-        logger.debug(f"Sleeping for {timeS},{occurence}")
         time.sleep(timeS)
         if occurence > 1:
             elem.click()
-            logger.debug("click")
-        return waitChange(elem=elem, page=page, timeS=timeS * 2,occurence=occurence+1)
+
+        return waitChange(
+            elem=elem, page=page, timeS=timeS * 2, occurence=occurence + 1
+        )
 
 
 if __name__ == "__main__":
-    rechercheContent = "restaurants 59000"
+    rechercheContent = "restauration 59000"
     test = "-t" in sys.argv
     with sync_playwright() as p:
         logger.info("start")
@@ -182,7 +186,7 @@ if __name__ == "__main__":
         logger.info("Barre de recherche completé")
 
         # Scroll vers le bah pour plus de contenu
-        if not test : 
+        if not test:
             Scrolling(page=page)
             logger.info("Scroll Terminé")
 
@@ -201,11 +205,12 @@ if __name__ == "__main__":
                 elemhtml = page.locator("div.bJzME.Hu9e2e.tTVLSc").inner_html()
                 json1 = getData(elemhtml, e)
                 time.sleep(1)
-                logger.debug("click sur About")
                 page.get_by_role("tab", name=re.compile("Informations")).click()
-                time.sleep(1)
+                time.sleep(2)
 
-                elemhtml = page.get_by_role("region", name=re.compile(".*Informations sur.*")).inner_html()
+                elemhtml = page.get_by_role(
+                    "region", name=re.compile(".*Informations sur.*")
+                ).inner_html()
                 json2 = getDataAbout(elemhtml)
 
                 items = list(json1.items())
@@ -222,8 +227,9 @@ if __name__ == "__main__":
         browser.close()
         logger.info("données collecté")
 
-        data = pd.DataFrame(result) 
+        data = pd.DataFrame(result)
         data.reset_index(inplace=True)
-        data.to_json("data.json",orient="records",indent=True,index=False)
+        logger.debug(data.shape)
+        data.to_json("data.json", orient="records", indent=True, index=False)
         logger.info("données enregistré")
         logger.info("end")

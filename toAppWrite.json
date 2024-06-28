@@ -1,0 +1,7183 @@
+[
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/F%C3%A9licie\/data=!4m7!3m6!1s0x47c2d53968f32df5:0x21322dce21d08095!8m2!3d50.6152381!4d3.0162763!16s%2Fg%2F11flt3l9fh!19sChIJ9S3zaDnVwkcRlYDQIc4tMiE?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipNZK5S1LTzZPO7w7GLINe59j_qqxaxWFz7UgN2r=w408-h306-k-no",
+  "name":"F\u00e9licie",
+  "googleMapRating":4.5,
+  "price":"66608c5e000709492e6c",
+  "address":"78 Rue du Mar\u00e9chal Foch, 59120 Loos",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Parking accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant",
+     "Toilettes accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Points forts",
+    "details":[
+     "Excellents cocktails"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9",
+     "Haut de gamme",
+     "Romantique"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servation obligatoire",
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Chaises hautes",
+     "Convient aux enfants"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Stationnement facile",
+     "Parking gratuit",
+     "Parking gratuit dans la rue"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.6152381,
+  "long":3.0162763,
+  "phone":"0320482385",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"13:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:30",
+    "closingTime":"21:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"13:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:30",
+    "closingTime":"21:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"13:30",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"13:30",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"19:30",
+    "closingTime":"21:30",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"13:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:30",
+    "closingTime":"21:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"13:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"19:30",
+    "closingTime":"21:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"13:30",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:30",
+    "closingTime":"21:30",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Restaurant+S%C3%A9bastopol\/data=!4m7!3m6!1s0x47c2d584d52044d5:0x3c0b6c06c6cb7470!8m2!3d50.628867!4d3.059011!16s%2Fg%2F1thvrvqr!19sChIJ1UQg1YTVwkcRcHTLxgZsCzw?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipPlFTtDpH_sJdjF43O_M3F80niDVrck9hqRrDkf=w408-h272-k-no",
+  "name":"Restaurant S\u00e9bastopol",
+  "googleMapRating":4.7,
+  "price":"66608c5e000709492e6c",
+  "address":"1 Pl. S\u00e9bastopol, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant",
+     "Toilettes accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Points forts",
+    "details":[
+     "Excellents cocktails"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9",
+     "Haut de gamme",
+     "Romantique"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servation obligatoire",
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Stationnement facile",
+     "Parking payant dans la rue"
+    ]
+   }
+  ],
+  "website":"https:\/\/restaurantsebastopol.com",
+  "lat":50.628867,
+  "long":3.059011,
+  "phone":"0320131338",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Le+Chat+Qui+Fume\/data=!4m7!3m6!1s0x47c2d58348cfdf17:0x8640e803e8565e66!8m2!3d50.6294185!4d3.0552534!16s%2Fg%2F1tcxtd7z!19sChIJF9_PSIPVwkcRZl5W6APoQIY?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/www.gstatic.com\/images\/icons\/material\/system_gm\/2x\/info_gm_grey_18dp.png",
+  "name":"Le Chat Qui Fume",
+  "googleMapRating":4.4,
+  "price":"66608c5e000709492e6c",
+  "address":"3 Rue Henri Kolb, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Points forts",
+    "details":[
+     "Excellents cocktails"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Chaises hautes",
+     "Menu enfant"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Parking payant dans la rue"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.6294185,
+  "long":3.0552534,
+  "phone":"0320789324",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"16:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"16:00",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:00",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/La+Fossetta\/data=!4m7!3m6!1s0x47c2d588a87f57d3:0x301d34b4a26422d5!8m2!3d50.634628!4d3.063033!16s%2Fg%2F1tdxdffz!19sChIJ01d_qIjVwkcR1SJkorQ0HTA?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/www.gstatic.com\/images\/icons\/material\/system_gm\/2x\/info_gm_grey_18dp.png",
+  "name":"La Fossetta",
+  "googleMapRating":4.6,
+  "price":"66608c5e000709492e6c",
+  "address":"15 Rue des Foss\u00e9s, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant italien"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Places assises accessibles en fauteuil roulant",
+     "Toilettes accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Petites portions \u00e0 partager",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9",
+     "Romantique"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servation obligatoire",
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Convient aux enfants",
+     "Menu enfant"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Parking payant dans la rue"
+    ]
+   }
+  ],
+  "website":"https:\/\/lafossetta.fr",
+  "lat":50.634628,
+  "long":3.063033,
+  "phone":"0320578077",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Il+Ristorante+-+Le+restaurant+italien+de+Lille\/data=!4m7!3m6!1s0x47c2d5892afe08e1:0x4ccbf45473ee2d1f!8m2!3d50.6341019!4d3.0660572!16s%2Fg%2F1tdh303z!19sChIJ4Qj-KonVwkcRHy3uc1T0y0w?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipO8laaE3QUc3wPdAA7wbVwcyDxMcjTWpH-u5Z7v=w408-h397-k-no",
+  "name":"Il Ristorante - Le restaurant italien de Lille",
+  "googleMapRating":4.2,
+  "price":"66608c5e000709492e6c",
+  "address":"51 Rue des Tanneurs, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant italien"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant",
+     "Toilettes accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Livraison",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Points forts",
+    "details":[
+     "Service rapide"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Menu en braille",
+     "Petites portions \u00e0 partager",
+     "Produits sains",
+     "Salle \u00e0 manger priv\u00e9e",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes",
+     "Wi-Fi",
+     "Wi-Fi gratuit"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9",
+     "Romantique"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Adapt\u00e9 aux familles",
+     "Groupes",
+     "LGBTQ+ friendly",
+     "Safe place pour les transgenres"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Chaises hautes",
+     "Convient aux enfants",
+     "Menu enfant"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Stationnement facile",
+     "Parking payant",
+     "Parking payant dans la rue"
+    ]
+   },
+   {
+    "name":"Animaux de compagnie",
+    "details":[
+     "Chiens admis"
+    ]
+   }
+  ],
+  "website":"https:\/\/ilristorante.fr",
+  "lat":50.6341019,
+  "long":3.0660572,
+  "phone":"0320072112",
+  "restaurantHours":[
+   {
+    "openingTime":"11:30",
+    "closingTime":"14:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"22:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"11:30",
+    "closingTime":"14:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"22:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"11:30",
+    "closingTime":"14:30",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"22:00",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"11:30",
+    "closingTime":"14:30",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"22:00",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"11:30",
+    "closingTime":"14:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"22:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"11:30",
+    "closingTime":"14:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"22:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"11:30",
+    "closingTime":"14:30",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"22:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Le+Souk\/data=!4m7!3m6!1s0x47c2d584b1f9e44f:0xde445d4a1864902e!8m2!3d50.6293929!4d3.0568737!16s%2Fg%2F11bxb400rz!19sChIJT-T5sYTVwkcRLpBkGEpdRN4?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/www.gstatic.com\/images\/icons\/material\/system_gm\/2x\/info_gm_grey_18dp.png",
+  "name":"Le Souk",
+  "googleMapRating":4.1,
+  "price":"66608c5e000709492e6c",
+  "address":"27 Pl. S\u00e9bastopol, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant marocain"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Parking accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant",
+     "Toilettes accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Livraison sans contact",
+     "Livraison",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Points forts",
+    "details":[
+     "Cabaret",
+     "Concerts"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Petites portions \u00e0 partager",
+     "Plats bio",
+     "Plats v\u00e9g\u00e9taliens",
+     "Produits sains",
+     "Remises \"happy hour\" sur la restauration",
+     "Remises \"happy hour\" sur les boissons",
+     "Service de restauration halal",
+     "Service de restauration ouvert tard en soir\u00e9e",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes",
+     "Toilettes non genr\u00e9es",
+     "Wi-Fi",
+     "Wi-Fi gratuit"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9",
+     "Romantique"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Adapt\u00e9 aux familles",
+     "Groupes",
+     "LGBTQ+ friendly",
+     "Safe place pour les transgenres"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Chaises hautes",
+     "Convient aux enfants"
+    ]
+   }
+  ],
+  "website":"https:\/\/lesouklille.fr",
+  "lat":50.6293929,
+  "long":3.0568737,
+  "phone":"0328079395",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"18:00",
+    "closingTime":"23:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"18:00",
+    "closingTime":"23:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"18:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"18:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"18:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Octopus\/data=!4m7!3m6!1s0x47c2d59b2b079827:0xc8dcd76e820f67a5!8m2!3d50.6287874!4d3.0588854!16s%2Fg%2F11hcd__rm0!19sChIJJ5gHK5vVwkcRpWcPgm7X3Mg?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/www.gstatic.com\/images\/icons\/material\/system_gm\/2x\/info_gm_grey_18dp.png",
+  "name":"Octopus",
+  "googleMapRating":4.8,
+  "price":"66608c5e000709492e6c",
+  "address":"2 Pl. S\u00e9bastopol, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Parking accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant",
+     "Toilettes accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Points forts",
+    "details":[
+     "Excellents cocktails"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Plats bio",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes",
+     "Wi-Fi",
+     "Wi-Fi gratuit"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9",
+     "Haut de gamme",
+     "Romantique"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Adapt\u00e9 aux familles"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servation obligatoire",
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Ch\u00e8ques",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Chaises hautes",
+     "Convient aux enfants"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.6287874,
+  "long":3.0588854,
+  "phone":"0320571439",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:30",
+    "closingTime":"22:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:30",
+    "closingTime":"22:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:30",
+    "closingTime":"22:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Les+Oiseaux\/data=!4m7!3m6!1s0x47c2d5d1440bdd01:0x64fb6130724f95ba!8m2!3d50.630593!4d3.0601873!16s%2Fg%2F11gxwgkg4c!19sChIJAd0LRNHVwkcRupVPcjBh-2Q?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/www.gstatic.com\/images\/icons\/material\/system_gm\/2x\/info_gm_grey_18dp.png",
+  "name":"Les Oiseaux",
+  "googleMapRating":4.7,
+  "price":"66608c5e000709492e6c",
+  "address":"7 Rue d'Inkermann, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Places assises accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Points forts",
+    "details":[
+     "Excellents cocktails"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Plats bio",
+     "Plats v\u00e9g\u00e9taliens",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "Petit d\u00e9jeuner",
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9",
+     "Romantique"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servation obligatoire",
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Pluxee",
+     "Titres restaurant"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.630593,
+  "long":3.0601873,
+  "phone":"0766159579",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Le+Chantecler\/data=!4m7!3m6!1s0x47c2d58545e4890f:0x8c1105ff9aad8a37!8m2!3d50.6295833!4d3.0611744!16s%2Fg%2F1tcvnf7w!19sChIJD4nkRYXVwkcRN4qtmv8FEYw?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/www.gstatic.com\/images\/icons\/material\/system_gm\/2x\/info_gm_grey_18dp.png",
+  "name":"Le Chantecler",
+  "googleMapRating":4.7,
+  "price":"66608c5e000709492e6c",
+  "address":"22 Rue Nicolas Leblanc, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant fran\u00e7ais"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Places assises accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9",
+     "Romantique"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Stationnement facile"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.6295833,
+  "long":3.0611744,
+  "phone":"0320574819",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:30",
+    "closingTime":"21:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:30",
+    "closingTime":"21:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:30",
+    "closingTime":"21:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"19:30",
+    "closingTime":"21:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:30",
+    "closingTime":"21:30",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Pancook+Lille+Z%C3%A9nith\/data=!4m7!3m6!1s0x47c2d550a3fbd81f:0x4cea674bfafbed0e!8m2!3d50.6309238!4d3.0768063!16s%2Fg%2F11nn2gbsmd!19sChIJH9j7o1DVwkcRDu37-ktn6kw?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipMOPQC_m-k2aQi1eU0o49BESbOCEU2KDximNbVE=w408-h543-k-no",
+  "name":"Pancook Lille Z\u00e9nith",
+  "googleMapRating":4.7,
+  "price":"66608c5e000709492e6c",
+  "address":"2 Av. du Pr\u00e9sident Hoover, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant fran\u00e7ais"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Points forts",
+    "details":[
+     "Sports"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Petites portions \u00e0 partager",
+     "Plats v\u00e9g\u00e9taliens",
+     "Produits sains",
+     "Service de restauration ouvert tard en soir\u00e9e",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "Petit d\u00e9jeuner",
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Adapt\u00e9 aux familles",
+     "Groupes",
+     "LGBTQ+ friendly",
+     "Safe place pour les transgenres"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Bimpli",
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Menu enfant"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Stationnement facile",
+     "Parking gratuit",
+     "Parking gratuit dans la rue",
+     "Parking payant"
+    ]
+   }
+  ],
+  "website":"https:\/\/pancook.fr",
+  "lat":50.6309238,
+  "long":3.0768063,
+  "phone":"0374954646",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"18:00",
+    "closingTime":"22:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"21:30",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/LE+SAFRAN+-+Restaurant+Indien+Lille\/data=!4m7!3m6!1s0x47c2d5988877e46d:0x8ff0700eb6eca5fc!8m2!3d50.629651!4d3.058252!16s%2Fg%2F11fhkgbz_9!19sChIJbeR3iJjVwkcR_KXstg5w8I8?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/www.gstatic.com\/images\/icons\/material\/system_gm\/2x\/info_gm_grey_18dp.png",
+  "name":"LE SAFRAN - Restaurant Indien Lille",
+  "googleMapRating":4.5,
+  "price":"66608c5e000709492e6c",
+  "address":"157 Rue Solf\u00e9rino, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant indien"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant",
+     "Toilettes accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Livraison",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Petites portions \u00e0 partager",
+     "Plats v\u00e9g\u00e9taliens",
+     "Produits sains",
+     "Remises \"happy hour\" sur la restauration",
+     "Service de restauration ouvert tard en soir\u00e9e",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servation obligatoire",
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Ticket\u00a0Restaurant",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   }
+  ],
+  "website":"https:\/\/safranlille.com",
+  "lat":50.629651,
+  "long":3.058252,
+  "phone":"0320254460",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Hajveri\/data=!4m7!3m6!1s0x47c2d584a4b8f029:0x4354da0fc106e945!8m2!3d50.6298959!4d3.0569019!16s%2Fg%2F11b6_jwwcy!19sChIJKfC4pITVwkcRRekGwQ_aVEM?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipOyh257toSzJLPADE-dQm2UwWrA-ZYMEQQxKRWk=w408-h274-k-no",
+  "name":"Hajveri",
+  "googleMapRating":4.3,
+  "price":"66608c5e000709492e6c",
+  "address":"196 Rue Solf\u00e9rino, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant indien"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Livraison",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Points forts",
+    "details":[
+     "Toit-terrasse"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Petites portions \u00e0 partager",
+     "Plats v\u00e9g\u00e9taliens",
+     "Produits sains",
+     "Service de restauration halal",
+     "Service de restauration ouvert tard en soir\u00e9e",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9",
+     "Romantique"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Convient aux enfants"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Parking gratuit"
+    ]
+   }
+  ],
+  "website":"https:\/\/hajveri.fr",
+  "lat":50.6298959,
+  "long":3.0569019,
+  "phone":"0320786512",
+  "restaurantHours":[
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"23:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"23:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:30",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"23:00",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"23:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"23:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:30",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"23:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Saveurs+des+Iles\/data=!4m7!3m6!1s0x47c2d59d419ece41:0x2c0f792c46567d8d!8m2!3d50.6282641!4d3.0513412!16s%2Fg%2F1tgbzx_9!19sChIJQc6eQZ3VwkcRjX1WRix5Dyw?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/www.gstatic.com\/images\/icons\/material\/system_gm\/2x\/info_gm_grey_18dp.png",
+  "name":"Saveurs des Iles",
+  "googleMapRating":4.3,
+  "price":"66608c5e000709492e6c",
+  "address":"266 Rue L\u00e9on Gambetta, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant",
+     "Toilettes accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Points forts",
+    "details":[
+     "Excellents cocktails"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Petites portions \u00e0 partager",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "Petit d\u00e9jeuner",
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Convient aux enfants"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.6282641,
+  "long":3.0513412,
+  "phone":"0361057704",
+  "restaurantHours":[
+   {
+    "openingTime":"11:30",
+    "closingTime":"14:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"23:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"11:30",
+    "closingTime":"14:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"23:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"11:30",
+    "closingTime":"14:30",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"23:30",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"11:30",
+    "closingTime":"14:30",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"23:30",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"11:30",
+    "closingTime":"14:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"23:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"11:30",
+    "closingTime":"14:30",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"23:30",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Restaurant+Suzanne\/data=!4m7!3m6!1s0x47c2d5018a4af383:0xe6f71a4de4a61103!8m2!3d50.6283023!4d3.0609752!16s%2Fg%2F11rkzvlrpx!19sChIJg_NKigHVwkcRAxGm5E0a9-Y?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipPsFMGmFZKLCIV-bbz9JCBuv2P3eykW6yoLHCR2=w408-h544-k-no",
+  "name":"Restaurant Suzanne",
+  "googleMapRating":4.8,
+  "price":"66608c5e000709492e6c",
+  "address":"4 Pl. Philippe Lebon, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant fran\u00e7ais"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Toilettes accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9",
+     "Haut de gamme",
+     "Romantique"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servation obligatoire",
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Parking payant"
+    ]
+   }
+  ],
+  "website":"https:\/\/suzannelille.fr",
+  "lat":50.6283023,
+  "long":3.0609752,
+  "phone":"0320008121",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"13:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:15",
+    "closingTime":"21:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"13:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:15",
+    "closingTime":"21:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"13:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:15",
+    "closingTime":"21:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:15",
+    "closingTime":"21:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"13:30",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:15",
+    "closingTime":"21:30",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Le+Jardin+du+Bonheur\/data=!4m7!3m6!1s0x47c2d584b8415cc5:0x7ce320d70e76cfd7!8m2!3d50.6297736!4d3.0573258!16s%2Fg%2F1tj88l8b!19sChIJxVxBuITVwkcR1892Dtcg43w?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipOsW1XyalTxWRKjEsBSMqw3bZhNdGLYe1yUJ9V6=w458-h240-k-no",
+  "name":"Le Jardin du Bonheur",
+  "googleMapRating":3.6,
+  "price":"66608c5e000709492e6c",
+  "address":"206 Rue Solf\u00e9rino, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant asiatique"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Places assises accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Livraison",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Cocktails et ap\u00e9ritifs",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Convient aux enfants"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.6297736,
+  "long":3.0573258,
+  "phone":"0320401489",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:20",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:20",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:00",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:20",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:20",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:20",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:20",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/L%27Avant+Sc%C3%A8ne\/data=!4m7!3m6!1s0x47c2d59ab83dcfd1:0x28f62ad85d471bf7!8m2!3d50.6282888!4d3.0607589!16s%2Fg%2F1trppyvw!19sChIJ0c89uJrVwkcR9xtHXdgq9ig?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipPTTsOYc6KdhxyAu5cddpSue8PBixo63EcMVI4u=w408-h306-k-no",
+  "name":"L'Avant Sc\u00e8ne",
+  "googleMapRating":4.1,
+  "price":"66608c5e000709492e6c",
+  "address":"8 Pl. Philippe Lebon, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant fran\u00e7ais"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant",
+     "Toilettes accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Produits sains",
+     "Service de restauration ouvert tard en soir\u00e9e",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9",
+     "Romantique"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Convient aux enfants",
+     "Menu enfant"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.6282888,
+  "long":3.0607589,
+  "phone":"0320573629",
+  "restaurantHours":[
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:30",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Le+Passe+Porc\/data=!4m7!3m6!1s0x47c2d584c5ffc0c3:0x5afbcc8eebb961db!8m2!3d50.6296135!4d3.0581078!16s%2Fg%2F1tzgnch0!19sChIJw8D_xYTVwkcR22G5647M-1o?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/www.gstatic.com\/images\/icons\/material\/system_gm\/2x\/info_gm_grey_18dp.png",
+  "name":"Le Passe Porc",
+  "googleMapRating":4.4,
+  "price":"66608c5e000709492e6c",
+  "address":"155 Rue Solf\u00e9rino, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Points forts",
+    "details":[
+     "Excellents cocktails"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "Petit d\u00e9jeuner",
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Ch\u00e8ques",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Chaises hautes",
+     "Convient aux enfants"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Stationnement plut\u00f4t difficile",
+     "Parking gratuit dans la rue",
+     "Parking payant"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.6296135,
+  "long":3.0581078,
+  "phone":"0320428393",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"21:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"21:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:30",
+    "closingTime":"14:00",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"21:00",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/La+Popote\/data=!4m7!3m6!1s0x47c2d576229c2f4b:0xb4b2146d0f4ea7fc!8m2!3d50.6253563!4d3.048849!16s%2Fg%2F11ggm5392x!19sChIJSy-cInbVwkcR_KdOD20UsrQ?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipNwnZHJRy7EMMaJaEucerXiNEaVRY02tDLvbuAM=w408-h240-k-no-pi0.148434-ya117.53991-ro-1.0316421-fo100",
+  "name":"La Popote",
+  "googleMapRating":4.8,
+  "price":"66608c5e000709492e6c",
+  "address":"9 Rue des Sarrazins, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "Traiteur",
+     "Desserts"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Menu enfant"
+    ]
+   }
+  ],
+  "website":"https:\/\/prochedemoi.fr",
+  "lat":50.6253563,
+  "long":3.048849,
+  "phone":"0320353535",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"16:00",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Gusto+Mio\/data=!4m7!3m6!1s0x47c2d58f0844cfdb:0xe055125d7d8fd8ac!8m2!3d50.6315044!4d3.064498!16s%2Fg%2F1tg8hw_s!19sChIJ289ECI_VwkcRrNiPfV0SVeA?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipNK1Si_2beR9CeI3_F9gGWQGjTMz2e5tDZeIhEv=w408-h273-k-no",
+  "name":"Gusto Mio",
+  "googleMapRating":4.8,
+  "price":"66608c5e000709492e6c",
+  "address":"15 Pl. Jacquard, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant italien"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Livraison",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Produits sains",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "Petit d\u00e9jeuner",
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Chaises hautes"
+    ]
+   }
+  ],
+  "website":"https:\/\/instagram.com",
+  "lat":50.6315044,
+  "long":3.064498,
+  "phone":"0374992510",
+  "restaurantHours":[
+   {
+    "openingTime":"11:00",
+    "closingTime":"14:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"11:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"11:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"11:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"11:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Le+Napoli\/data=!4m7!3m6!1s0x47c2d59a0f7a347f:0x7598d027558f052f!8m2!3d50.624377!4d3.061119!16s%2Fg%2F11c46g45yt!19sChIJfzR6D5rVwkcRLwWPVSfQmHU?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipNuYWqZbb16Vt0MYq99E5--OAGHfNFe7wUADWQ8=w408-h356-k-no",
+  "name":"Le Napoli",
+  "googleMapRating":4.1,
+  "price":"66608c5e000709492e6c",
+  "address":"56 Rue d'Artois, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant",
+     "Toilettes accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Livraison",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Caf\u00e9s",
+     "Produits sains",
+     "Service de restauration halal",
+     "Service de restauration ouvert tard en soir\u00e9e"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "Brunch",
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Convient aux enfants",
+     "Menu enfant"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.624377,
+  "long":3.061119,
+  "phone":"0320048709",
+  "restaurantHours":null
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Estaminet+Au+Vieux+De+La+Vieille\/data=!4m7!3m6!1s0x47c32a78447bf619:0x4e99bb8619a8d50a!8m2!3d50.6408957!4d3.0613641!16s%2Fg%2F1tfkvgl0!19sChIJGfZ7RHgqw0cRCtWoGYa7mU4?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipOfR8MECq1RF9QlqZFtr21aV6S8NkTWdKiYHI_d=w408-h272-k-no",
+  "name":"Estaminet Au Vieux De La Vieille",
+  "googleMapRating":4.4,
+  "price":"66608c5e000709492e6c",
+  "address":"2 Rue des Vieux Murs, 59800 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant fran\u00e7ais"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Places assises accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Plats bio",
+     "Produits sains",
+     "Remises \"happy hour\" sur les boissons",
+     "Service de restauration ouvert tard en soir\u00e9e",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servation obligatoire",
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Chaises hautes",
+     "Convient aux enfants"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Stationnement plut\u00f4t difficile"
+    ]
+   }
+  ],
+  "website":"https:\/\/estaminetlille.fr",
+  "lat":50.6408957,
+  "long":3.0613641,
+  "phone":"0320138164",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"00:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"00:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:00",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"00:00",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:00",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"00:00",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"00:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"00:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:00",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"00:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Saveurs+de+l%27Inde\/data=!4m7!3m6!1s0x47c2d59ad4971a23:0x91168d236fc4e5c9!8m2!3d50.6288963!4d3.0594629!16s%2Fg%2F1tgvcss4!19sChIJIxqX1JrVwkcRyeXEbyONFpE?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipMgUNfm7_fOzYu68vXIyllEz_gKWTIw69fvgF5c=w408-h306-k-no",
+  "name":"Saveurs de l'Inde",
+  "googleMapRating":4.3,
+  "price":"66608c5e000709492e6c",
+  "address":"181 Rue Solf\u00e9rino, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant indien"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Livraison",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Petites portions \u00e0 partager",
+     "Plats v\u00e9g\u00e9taliens",
+     "Produits sains",
+     "Service de restauration halal",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Parking payant dans la rue"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.6288963,
+  "long":3.0594629,
+  "phone":"0361972236",
+  "restaurantHours":[
+   {
+    "openingTime":"11:30",
+    "closingTime":"14:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"23:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"11:30",
+    "closingTime":"14:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"23:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"11:30",
+    "closingTime":"14:30",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"23:30",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"11:30",
+    "closingTime":"14:30",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"23:30",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"11:30",
+    "closingTime":"14:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"23:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"11:30",
+    "closingTime":"14:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"23:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"11:30",
+    "closingTime":"14:30",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"23:30",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Le+Charbon+Ardent\/data=!4m7!3m6!1s0x47c2d5fb9e1417a1:0xd2e161a645d16fde!8m2!3d50.6290033!4d3.0556587!16s%2Fg%2F11h_vwk813!19sChIJoRcUnvvVwkcR3m_RRaZh4dI?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipO8j4jbPhi3LB5hR8Gk6i4jBCqCcGX2zz9lczfM=w426-h240-k-no",
+  "name":"Le Charbon Ardent",
+  "googleMapRating":4.4,
+  "price":"66608c5e000709492e6c",
+  "address":"21 Rue Henri Kolb, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Pizzeria"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant",
+     "Toilettes accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Produits sains",
+     "Service de restauration ouvert tard en soir\u00e9e",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Cartes de cr\u00e9dit"
+    ]
+   }
+  ],
+  "website":"https:\/\/facebook.com",
+  "lat":50.6290033,
+  "long":3.0556587,
+  "phone":"0698709857",
+  "restaurantHours":null
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/L%27Atmosph%C3%A9re\/data=!4m7!3m6!1s0x47c2d5834c9b183f:0xc0b69b57c9d7bab4!8m2!3d50.6292352!4d3.0551776!16s%2Fg%2F11bztfxq9y!19sChIJPxibTIPVwkcRtLrXyVebtsA?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipOzXu6xZWznYsp0ylc6hCwoBN9EsONZqU9kzzPD=w408-h408-k-no",
+  "name":"L'Atmosph\u00e9re",
+  "googleMapRating":4.3,
+  "price":"66608c5e000709492e6c",
+  "address":"12 Rue Henri Kolb, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Pizzeria"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Livraison sans contact",
+     "Livraison",
+     "Service de drive",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00eener",
+     "Traiteur",
+     "Desserts"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.6292352,
+  "long":3.0551776,
+  "phone":"0981794589",
+  "restaurantHours":[
+
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Quai+38\/data=!4m7!3m6!1s0x47c32a7c7bfe4df3:0x997e72c1609a2db2!8m2!3d50.6468332!4d3.0577148!16s%2Fg%2F1tg34cgy!19sChIJ803-e3wqw0cRsi2aYMFyfpk?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/www.gstatic.com\/images\/icons\/material\/system_gm\/2x\/info_gm_grey_18dp.png",
+  "name":"Quai 38",
+  "googleMapRating":4.8,
+  "price":"66608c5e000709492e6c",
+  "address":"38 Rue Saint-S\u00e9bastien, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant de poisson"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant",
+     "Toilettes accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9",
+     "Haut de gamme",
+     "Romantique"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servation obligatoire",
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Chaises hautes"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Parking gratuit dans la rue"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.6468332,
+  "long":3.0577148,
+  "phone":"0320421068",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:30",
+    "closingTime":"23:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:30",
+    "closingTime":"23:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:30",
+    "closingTime":"23:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"19:30",
+    "closingTime":"23:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:30",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:30",
+    "closingTime":"23:30",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/N%27Autre+Monde\/data=!4m7!3m6!1s0x47c2d587c3d7adf1:0xc75afb4294db31c2!8m2!3d50.6379848!4d3.0621421!16s%2Fg%2F1tmqqhy5!19sChIJ8a3Xw4fVwkcRwjHblEL7Wsc?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/www.gstatic.com\/images\/icons\/material\/system_gm\/2x\/info_gm_grey_18dp.png",
+  "name":"N'Autre Monde",
+  "googleMapRating":4.5,
+  "price":"66608c5e000709492e6c",
+  "address":"1Bis Rue du Cure Saint-Etienne, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant fran\u00e7ais"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9",
+     "Haut de gamme",
+     "Romantique"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servation obligatoire",
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Parking payant dans la rue"
+    ]
+   }
+  ],
+  "website":"https:\/\/nautremonde.fr",
+  "lat":50.6379848,
+  "long":3.0621421,
+  "phone":"0320150131",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"13:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"13:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"13:30",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"21:30",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"13:30",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"21:30",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"13:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"21:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"21:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"13:30",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"21:30",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Shuriken\/data=!4m7!3m6!1s0x47c2d584bd04a9c3:0x58c142b6a5efc8ae!8m2!3d50.630191!4d3.05701!16s%2Fg%2F11b6dr42tc!19sChIJw6kEvYTVwkcRrsjvpbZCwVg?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipPSw-Q0IUoB3lP8h4kGOfSDivutVvLBpaQJ083j=w408-h544-k-no",
+  "name":"Shuriken",
+  "googleMapRating":4.5,
+  "price":"66608c5e000709492e6c",
+  "address":"129 Rue Solf\u00e9rino, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant japonais"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Livraison sans contact",
+     "Livraison",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Points forts",
+    "details":[
+     "Toit-terrasse"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Petites portions \u00e0 partager",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes",
+     "Wi-Fi",
+     "Wi-Fi gratuit"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Pluxee",
+     "Titres restaurant"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Convient aux enfants"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Parking payant dans la rue"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.630191,
+  "long":3.05701,
+  "phone":"0320400388",
+  "restaurantHours":[
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"18:45",
+    "closingTime":"23:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"18:45",
+    "closingTime":"23:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"18:45",
+    "closingTime":"23:00",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"18:45",
+    "closingTime":"23:00",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"18:45",
+    "closingTime":"23:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"18:45",
+    "closingTime":"23:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:30",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"18:45",
+    "closingTime":"23:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Le+Bon+Jeune\/data=!4m7!3m6!1s0x47c2d593ac16def5:0xab4c06feab02f796!8m2!3d50.6273902!4d3.0572078!16s%2Fg%2F11p6ljvpyk!19sChIJ9d4WrJPVwkcRlvcCq_4GTKs?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipPbvar8cIzIwYWmSnmRu0Dj1ZkAEt2r6mMnGBM7=w408-h541-k-no",
+  "name":"Le Bon Jeune",
+  "googleMapRating":4.9,
+  "price":"66608c5e000709492e6c",
+  "address":"36 Rue des Postes, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant de hamburgers"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Livraison",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Convient aux enfants"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Stationnement plut\u00f4t difficile",
+     "Parking gratuit dans la rue",
+     "Parking payant dans la rue"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.6273902,
+  "long":3.0572078,
+  "phone":"0626327783",
+  "restaurantHours":[
+   {
+    "openingTime":"19:00",
+    "closingTime":"00:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"00:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Restaurant+Le+BonBon+Lille\/data=!4m7!3m6!1s0x47c2d5900b6879a7:0x530978d0f0e53354!8m2!3d50.6276305!4d3.0622671!16s%2Fg%2F1v96kyxj!19sChIJp3loC5DVwkcRVDPl8NB4CVM?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipN5VQ5_KZE-lRuhnlBJ-mJJ-Pt059MzhdHN8U4f=w408-h544-k-no",
+  "name":"Restaurant Le BonBon Lille",
+  "googleMapRating":4.5,
+  "price":"66608c5e000709492e6c",
+  "address":"15 Pl. Philippe Lebon, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Brasserie"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "Petit d\u00e9jeuner",
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Convient aux enfants",
+     "Menu enfant"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Stationnement facile",
+     "Parking gratuit",
+     "Parking payant"
+    ]
+   }
+  ],
+  "website":"https:\/\/lebonbonlille.fr",
+  "lat":50.6276305,
+  "long":3.0622671,
+  "phone":"0320574981",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:15",
+    "closingTime":"21:45",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:15",
+    "closingTime":"21:45",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Al+Pomodoro+-+Restaurant+Italien\/data=!4m7!3m6!1s0x47c2d5824a7f73c3:0xafbf2b73e600b268!8m2!3d50.6329503!4d3.053307!16s%2Fg%2F1thz0tyb!19sChIJw3N_SoLVwkcRaLIA5nMrv68?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipP7MMDe_NOySnszh7yaqsg6ipQlUy0erFB7wjYj=w408-h544-k-no",
+  "name":"Al Pomodoro - Restaurant Italien",
+  "googleMapRating":4.5,
+  "price":"66608c5e000709492e6c",
+  "address":"155 Rue Nationale, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant italien"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Livraison",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Petites portions \u00e0 partager",
+     "Produits sains",
+     "Service de restauration halal",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Adapt\u00e9 aux familles",
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Bimpli",
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Ch\u00e8que D\u00e9jeuner",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Ticket\u00a0Restaurant",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Convient aux enfants"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Parking payant"
+    ]
+   }
+  ],
+  "website":"https:\/\/alpomodoro.fr",
+  "lat":50.6329503,
+  "long":3.053307,
+  "phone":"0320545059",
+  "restaurantHours":[
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:15",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:15",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:15",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:15",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:15",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Le+Ici+Bar+%26+Restaurant\/data=!4m7!3m6!1s0x47c2d585106b0b9f:0xf3a9e86028c9c1ee!8m2!3d50.6308717!4d3.0601445!16s%2Fg%2F1tg677r8!19sChIJnwtrEIXVwkcR7sHJKGDoqfM?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipMr0gpVTEoXkKeBLigVqI--uWPxqw3tonIOraDK=w408-h306-k-no",
+  "name":"Le Ici Bar & Restaurant",
+  "googleMapRating":4.6,
+  "price":"66608c5e000709492e6c",
+  "address":"10 Rue d'Inkermann, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Bar"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Points forts",
+    "details":[
+     "Concerts",
+     "Excellents cocktails",
+     "Spectacles"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Cocktails et ap\u00e9ritifs",
+     "Remises \"happy hour\" sur les boissons",
+     "Restauration au bar",
+     "Service de restauration",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes",
+     "Wi-Fi",
+     "Wi-Fi gratuit"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes",
+     "LGBTQ+ friendly",
+     "Safe place pour les transgenres"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Cartes de cr\u00e9dit"
+    ]
+   }
+  ],
+  "website":"https:\/\/facebook.com",
+  "lat":50.6308717,
+  "long":3.0601445,
+  "phone":"0986256217",
+  "restaurantHours":null
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/O%27KEBAB+-+KEBAB+ET+BURGER\/data=!4m7!3m6!1s0x47c2d5ff9ff04e31:0x7c93729486f4fc9c!8m2!3d50.6303595!4d3.059426!16s%2Fg%2F11jt69ylmc!19sChIJMU7wn__VwkcRnPz0hpRyk3w?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/www.gstatic.com\/images\/icons\/material\/system_gm\/2x\/info_gm_grey_18dp.png",
+  "name":"O'KEBAB - KEBAB ET BURGER",
+  "googleMapRating":4.5,
+  "price":"66608c5e000709492e6c",
+  "address":"26 Rue d'Inkermann, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant halal"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Toilettes accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Livraison sans contact",
+     "Livraison",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Caf\u00e9s",
+     "Petites portions \u00e0 partager",
+     "Service de restauration halal",
+     "Service de restauration ouvert tard en soir\u00e9e"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "Petit d\u00e9jeuner",
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Argent liquide seulement",
+     "Cartes de paiement",
+     "Pluxee",
+     "Ticket\u00a0Restaurant",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Convient aux enfants",
+     "Menu enfant"
+    ]
+   }
+  ],
+  "website":"https:\/\/bababurger.fr",
+  "lat":50.6303595,
+  "long":3.059426,
+  "phone":"0766763119",
+  "restaurantHours":null
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Chez+Bacchus\/data=!4m7!3m6!1s0x47c2d59c1b49df37:0x42f16232dd68243!8m2!3d50.6243071!4d3.0547165!16s%2Fg%2F11b6mn9rm7!19sChIJN99JG5zVwkcRQ4LWLSMWLwQ?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipPw9nxtFj24GonI8tt8ySzxNYfM_fmnoEO3ZAY6=w408-h306-k-no",
+  "name":"Chez Bacchus",
+  "googleMapRating":4.6,
+  "price":"66608c5e000709492e6c",
+  "address":"124 Rue des Postes, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant libanais"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Places assises accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Petites portions \u00e0 partager",
+     "Plats v\u00e9g\u00e9taliens",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Convient aux enfants"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.6243071,
+  "long":3.0547165,
+  "phone":"0328364768",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/La+Griffe\/data=!4m7!3m6!1s0x47c2d5882f7f9ea9:0x9c4b4c552eb43c37!8m2!3d50.6270665!4d3.0572914!16s%2Fg%2F11frtds9k2!19sChIJqZ5_L4jVwkcRNzy0LlVMS5w?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipP0QJOKDeJ4N4Y3_qwN-UE2OgaYh8plUd91tCE8=w408-h271-k-no",
+  "name":"La Griffe",
+  "googleMapRating":4.8,
+  "price":"66608c5e000709492e6c",
+  "address":"37 Rue des Postes, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant v\u00e9g\u00e9tarien"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant",
+     "Toilettes accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Petites portions \u00e0 partager",
+     "Plats bio",
+     "Plats v\u00e9g\u00e9taliens",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "Petit d\u00e9jeuner",
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes",
+     "LGBTQ+ friendly",
+     "Safe place pour les transgenres"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Parking payant dans la rue"
+    ]
+   },
+   {
+    "name":"Animaux de compagnie",
+    "details":[
+     "Chiens admis"
+    ]
+   }
+  ],
+  "website":"https:\/\/facebook.com",
+  "lat":50.6270665,
+  "long":3.0572914,
+  "phone":"0362653421",
+  "restaurantHours":[
+   {
+    "openingTime":"17:00",
+    "closingTime":"02:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"17:00",
+    "closingTime":"02:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"18:00",
+    "closingTime":"01:00",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"18:00",
+    "closingTime":"01:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"18:00",
+    "closingTime":"01:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"17:00",
+    "closingTime":"02:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Los+3+compadres\/data=!4m7!3m6!1s0x47c2d525c0e8f80f:0xe2c83d012eaa6df4!8m2!3d50.6259386!4d3.0611349!16s%2Fg%2F11fpfpmy6m!19sChIJD_jowCXVwkcR9G2qLgE9yOI?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipNuKosRYaleIFUkYaAXkPAMq7m8fo--j8UFlxGw=w533-h240-k-no",
+  "name":"Los 3 compadres",
+  "googleMapRating":4.8,
+  "price":"66608c5e000709492e6c",
+  "address":"80 Rue Br\u00fble Maison, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant mexicain"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant",
+     "Toilettes accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Petites portions \u00e0 partager",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Adapt\u00e9 aux familles",
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Chaises hautes",
+     "Convient aux enfants"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.6259386,
+  "long":3.0611349,
+  "phone":"0320925575",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Le+C%C3%B4-D%C3%B4+HU%C3%8A\/data=!4m7!3m6!1s0x47c2d585467c523b:0x898417c884d80ac8!8m2!3d50.629692!4d3.0611736!16s%2Fg%2F11b5vwyhlh!19sChIJO1J8RoXVwkcRyArYhMgXhIk?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipPl68unrkggi56XfDcrlvzoTl1Wb_38q-erjaB9=w408-h272-k-no",
+  "name":"Le C\u00f4-D\u00f4 HU\u00ca",
+  "googleMapRating":4.3,
+  "price":"66608c5e000709492e6c",
+  "address":"16 Rue Nicolas Leblanc, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant vietnamien"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Places assises accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Plats v\u00e9g\u00e9taliens",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Convient aux enfants",
+     "Menu enfant"
+    ]
+   }
+  ],
+  "website":"https:\/\/codohue.fr",
+  "lat":50.629692,
+  "long":3.0611736,
+  "phone":"0320534550",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/La+Mamounia\/data=!4m7!3m6!1s0x47c2d59f912965b3:0xc64d51c03f9956f3!8m2!3d50.622113!4d3.0532832!16s%2Fg%2F1tlmmgw1!19sChIJs2UpkZ_VwkcR81aZP8BRTcY?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/www.gstatic.com\/images\/icons\/material\/system_gm\/2x\/info_gm_grey_18dp.png",
+  "name":"La Mamounia",
+  "googleMapRating":4.5,
+  "price":"66608c5e000709492e6c",
+  "address":"167 Rue des Postes, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant marocain"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Parking accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant",
+     "Toilettes accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Produits sains",
+     "Service de restauration halal",
+     "Service de restauration ouvert tard en soir\u00e9e",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9",
+     "Haut de gamme",
+     "Romantique"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Adapt\u00e9 aux familles",
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Convient aux enfants",
+     "Menu enfant"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Stationnement facile",
+     "Parking couvert gratuit",
+     "Parking gratuit",
+     "Parking gratuit dans la rue"
+    ]
+   }
+  ],
+  "website":"https:\/\/lamamounia.fr",
+  "lat":50.622113,
+  "long":3.0532832,
+  "phone":"0320540834",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"15:00",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:30",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Mezze+Royal\/data=!4m7!3m6!1s0x47c2d5d6a04b14cb:0x238eb52d0d2b1937!8m2!3d50.6293259!4d3.0547859!16s%2Fg%2F11sc0mpxp4!19sChIJyxRLoNbVwkcRNxkrDS21jiM?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/www.gstatic.com\/images\/icons\/material\/system_gm\/2x\/info_gm_grey_18dp.png",
+  "name":"Mezze Royal",
+  "googleMapRating":5.0,
+  "price":"66608c5e000709492e6c",
+  "address":"165 Rue L\u00e9on Gambetta, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant libanais"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Drive disponible",
+     "Livraison",
+     "Service de drive",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Petites portions \u00e0 partager",
+     "Produits sains",
+     "Service de restauration halal",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "Petit d\u00e9jeuner",
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Convient aux enfants"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Parking payant dans la rue"
+    ]
+   }
+  ],
+  "website":"https:\/\/facebook.com",
+  "lat":50.6293259,
+  "long":3.0547859,
+  "phone":"0635425451",
+  "restaurantHours":null
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Taco+Memo\/data=!4m7!3m6!1s0x47c2d59cd30e299f:0x23d272f63dfed018!8m2!3d50.6289764!4d3.0535055!16s%2Fg%2F1hc78lznb!19sChIJnykO05zVwkcRGND-PfZy0iM?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/www.gstatic.com\/images\/icons\/material\/system_gm\/2x\/info_gm_grey_18dp.png",
+  "name":"Taco Memo",
+  "googleMapRating":4.4,
+  "price":"66608c5e000709492e6c",
+  "address":"209 Rue L\u00e9on Gambetta, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant mexicain"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant",
+     "Toilettes accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Livraison sans contact",
+     "Livraison",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Petites portions \u00e0 partager",
+     "Plats v\u00e9g\u00e9taliens",
+     "Produits sains",
+     "Service de restauration halal"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "Brunch",
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Adapt\u00e9 aux familles",
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Bimpli",
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Ch\u00e8que D\u00e9jeuner",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Ticket\u00a0Restaurant",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Convient aux enfants"
+    ]
+   }
+  ],
+  "website":"https:\/\/tacomemo.com",
+  "lat":50.6289764,
+  "long":3.0535055,
+  "phone":"0362231198",
+  "restaurantHours":null
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Byblos\/data=!4m7!3m6!1s0x47c2d58432450981:0xe9b9860e30279010!8m2!3d50.6333579!4d3.0593635!16s%2Fg%2F11b6npz_tr!19sChIJgQlFMoTVwkcREJAnMA6Guek?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/www.gstatic.com\/images\/icons\/material\/system_gm\/2x\/info_gm_grey_18dp.png",
+  "name":"Byblos",
+  "googleMapRating":4.2,
+  "price":"66608c5e000709492e6c",
+  "address":"119 Bd de la Libert\u00e9 117, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant libanais"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant",
+     "Toilettes accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Petites portions \u00e0 partager",
+     "Plats v\u00e9g\u00e9taliens",
+     "Produits sains",
+     "Service de restauration halal",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9",
+     "Romantique"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Pluxee",
+     "Titres restaurant"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.6333579,
+  "long":3.0593635,
+  "phone":"0320937485",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Restaurant+Chinois+Tiger\/data=!4m7!3m6!1s0x47c2d5e437aad5b9:0xde9908061592e13d!8m2!3d50.6300416!4d3.0568238!16s%2Fg%2F11s5byw11j!19sChIJudWqN-TVwkcRPeGSFQYImd4?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipORexnKwRNPDFhehUYJSYT23RQWOskJgH1GT4w0=w426-h240-k-no",
+  "name":"Restaurant Chinois Tiger",
+  "googleMapRating":4.2,
+  "price":"66608c5e000709492e6c",
+  "address":"192 Rue Solf\u00e9rino, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Livraison",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Points forts",
+    "details":[
+     "Excellents cocktails"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Pluxee",
+     "Titres restaurant"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Convient aux enfants"
+    ]
+   }
+  ],
+  "website":"https:\/\/tigerlille.fr",
+  "lat":50.6300416,
+  "long":3.0568238,
+  "phone":"0374699938",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Au+Paon+D%27Or\/data=!4m7!3m6!1s0x47c2d58f5fee0591:0xbe16b0a38e15d0a!8m2!3d50.6328695!4d3.0624216!16s%2Fg%2F1vzqrdsd!19sChIJkQXuX4_VwkcRCl3hOApr4Qs?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/www.gstatic.com\/images\/icons\/material\/system_gm\/2x\/info_gm_grey_18dp.png",
+  "name":"Au Paon D'Or",
+  "googleMapRating":3.9,
+  "price":"66608c5e000709492e6c",
+  "address":"2 Pl. de B\u00e9thune, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Bistro"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Petites portions \u00e0 partager",
+     "Remises \"happy hour\" sur les boissons",
+     "Service de restauration ouvert tard en soir\u00e9e",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "Petit d\u00e9jeuner",
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Convient aux enfants",
+     "Menu enfant"
+    ]
+   },
+   {
+    "name":"Animaux de compagnie",
+    "details":[
+     "Chiens admis"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.6328695,
+  "long":3.0624216,
+  "phone":"0320428352",
+  "restaurantHours":[
+   {
+    "openingTime":"08:00",
+    "closingTime":"00:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"08:00",
+    "closingTime":"00:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"10:00",
+    "closingTime":"00:00",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"08:00",
+    "closingTime":"00:00",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"08:00",
+    "closingTime":"00:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"08:00",
+    "closingTime":"00:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"08:00",
+    "closingTime":"00:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/L%27Adress\/data=!4m7!3m6!1s0x47c2d59b7189b809:0xcdd3ab617da23e18!8m2!3d50.6269159!4d3.0571765!16s%2Fg%2F11clnxs4zv!19sChIJCbiJcZvVwkcRGD6ifWGr080?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipPxPuq8QjHqqf1Z2uDaFFHdVNMalJ_LPZn4wG5B=w408-h725-k-no",
+  "name":"L'Adress",
+  "googleMapRating":4.2,
+  "price":"66608c5e000709492e6c",
+  "address":"43 Rue des Postes, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Livraison sans contact",
+     "Livraison",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Caf\u00e9s",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Petites portions \u00e0 partager",
+     "Plats bio",
+     "Plats v\u00e9g\u00e9taliens",
+     "Produits sains",
+     "Salle \u00e0 manger priv\u00e9e",
+     "Service de restauration halal",
+     "Service de restauration ouvert tard en soir\u00e9e"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes",
+     "Wi-Fi",
+     "Wi-Fi gratuit"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Adapt\u00e9 aux familles",
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Bimpli",
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Ch\u00e8que D\u00e9jeuner",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Ticket\u00a0Restaurant",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Chaises hautes",
+     "Convient aux enfants",
+     "Dispose d'une table \u00e0 langer",
+     "Menu enfant"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Parking gratuit",
+     "Parking gratuit dans la rue"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.6269159,
+  "long":3.0571765,
+  "phone":"0361920811",
+  "restaurantHours":[
+   {
+    "openingTime":"18:30",
+    "closingTime":"23:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"23:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"18:30",
+    "closingTime":"23:30",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:15",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"18:45",
+    "closingTime":"23:30",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:15",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"18:45",
+    "closingTime":"23:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"11:45",
+    "closingTime":"14:45",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"18:45",
+    "closingTime":"23:30",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Restaurant+Layalina\/data=!4m7!3m6!1s0x47c2d59a72d1a0e5:0x9b857ed27214c1de!8m2!3d50.6237072!4d3.0678254!16s%2Fg%2F1tgp9f9q!19sChIJ5aDRcprVwkcR3sEUctJ-hZs?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/www.gstatic.com\/images\/icons\/material\/system_gm\/2x\/info_gm_grey_18dp.png",
+  "name":"Restaurant Layalina",
+  "googleMapRating":4.6,
+  "price":"66608c5e000709492e6c",
+  "address":"14 Rue d'Arras, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant libanais"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant",
+     "Toilettes accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Livraison sans contact",
+     "Livraison",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Petites portions \u00e0 partager",
+     "Plats bio",
+     "Plats v\u00e9g\u00e9taliens",
+     "Produits sains",
+     "Service de restauration halal",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes",
+     "Wi-Fi",
+     "Wi-Fi gratuit"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9",
+     "Romantique"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Adapt\u00e9 aux familles",
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Convient aux enfants"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.6237072,
+  "long":3.0678254,
+  "phone":"0320428558",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Bistrot+Franquette\/data=!4m7!3m6!1s0x47c2d5f5b5ef22a1:0xdb01e3ab5a185337!8m2!3d50.6359496!4d3.0585264!16s%2Fg%2F11tcyh9q95!19sChIJoSLvtfXVwkcRN1MYWqvjAds?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipM7zU3lAteO3JI4_rmoVKq1Dw-k-SCPG1_EYqS_=w408-h544-k-no",
+  "name":"Bistrot Franquette",
+  "googleMapRating":4.9,
+  "price":"66608c5e000709492e6c",
+  "address":"16 Rue du Vert Bois, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant fran\u00e7ais"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "Petit d\u00e9jeuner",
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.6359496,
+  "long":3.0585264,
+  "phone":"0603968700",
+  "restaurantHours":[
+   {
+    "openingTime":"11:00",
+    "closingTime":"00:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"11:00",
+    "closingTime":"00:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"11:00",
+    "closingTime":"00:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"11:00",
+    "closingTime":"00:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Taberna+Latina\/data=!4m7!3m6!1s0x47c2d5851aba927f:0xf8ff6eb3d148fbd5!8m2!3d50.630822!4d3.0600736!16s%2Fg%2F1hdzqvs22!19sChIJf5K6GoXVwkcR1ftI0bNu__g?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipNS74uZBmSqMsu4rZ_Z1sdAXq86wDQUiOZciEc7=w408-h272-k-no",
+  "name":"Taberna Latina",
+  "googleMapRating":4.3,
+  "price":"66608c5e000709492e6c",
+  "address":"12 Rue d'Inkermann, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant latino-am\u00e9ricain"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Livraison",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Points forts",
+    "details":[
+     "Concerts",
+     "Sports"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Petites portions \u00e0 partager",
+     "Remises \"happy hour\" sur les boissons",
+     "Salle \u00e0 manger priv\u00e9e",
+     "Service de restauration ouvert tard en soir\u00e9e",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes",
+     "Toilettes non genr\u00e9es"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes",
+     "LGBTQ+ friendly"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.630822,
+  "long":3.0600736,
+  "phone":"0662432964",
+  "restaurantHours":null
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/PICA+TAPAS\/data=!4m7!3m6!1s0x47c2d58364c369dd:0x1670d0795003532d!8m2!3d50.6307918!4d3.0559434!16s%2Fg%2F1tk6ph28!19sChIJ3WnDZIPVwkcRLVMDUHnQcBY?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/www.gstatic.com\/images\/icons\/material\/system_gm\/2x\/info_gm_grey_18dp.png",
+  "name":"PICA TAPAS",
+  "googleMapRating":4.7,
+  "price":"66608c5e000709492e6c",
+  "address":"117 Rue Solf\u00e9rino, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant de tapas"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Petites portions \u00e0 partager",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Bar disponible sur place",
+     "Toilettes",
+     "Wi-Fi",
+     "Wi-Fi gratuit"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Chaises hautes"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Parking gratuit dans la rue"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.6307918,
+  "long":3.0559434,
+  "phone":"0666938229",
+  "restaurantHours":[
+   {
+    "openingTime":"18:00",
+    "closingTime":"23:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"18:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"18:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" lundi"
+   },
+   {
+    "openingTime":"18:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"18:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"18:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/La+cr%C3%AAperie+du+Sebasto\/data=!4m7!3m6!1s0x47c2d586aaa1162b:0xd3dc5a0263d81e50!8m2!3d50.6298895!4d3.0576489!16s%2Fg%2F11jtbd8nx9!19sChIJKxahqobVwkcRUB7YYwJa3NM?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipMfBergqAsClNyFa_tYa1WiY16moLdh6E_yf7nR=w408-h306-k-no",
+  "name":"La cr\u00eaperie du Sebasto",
+  "googleMapRating":4.7,
+  "price":"66608c5e000709492e6c",
+  "address":"143 Rue Solf\u00e9rino, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Cr\u00eaperie"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant",
+     "Toilettes accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Terrasse",
+     "Livraison sans contact",
+     "Livraison",
+     "Vente \u00e0 emporter",
+     "Repas sur place",
+     "Livraison le jour m\u00eame"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Petites portions \u00e0 partager",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "Petit d\u00e9jeuner",
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes",
+     "Wi-Fi",
+     "Wi-Fi gratuit"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Adapt\u00e9 aux familles"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Chaises hautes",
+     "Convient aux enfants",
+     "Menu enfant"
+    ]
+   }
+  ],
+  "website":"https:\/\/www.google.fr\/maps",
+  "lat":50.6298895,
+  "long":3.0576489,
+  "phone":"0374468868",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"23:00",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:00",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ },
+ {
+  "gmapLink":"https:\/\/www.google.fr\/maps\/place\/Mon+Petit+Tha%C3%AF\/data=!4m7!3m6!1s0x47c2d59d2eed45f5:0xf0a5b5c24973ecca!8m2!3d50.6287788!4d3.0524568!16s%2Fg%2F11bxdw1l73!19sChIJ9UXtLp3VwkcRyuxzScK1pfA?authuser=0&hl=fr&rclk=1",
+  "image":"https:\/\/lh5.googleusercontent.com\/p\/AF1QipOsQXays4OPe1zXpPxATo37cqDjvOcrK0YSNHZ_=w427-h240-k-no",
+  "name":"Mon Petit Tha\u00ef",
+  "googleMapRating":4.2,
+  "price":"66608c5e000709492e6c",
+  "address":"228 Rue L\u00e9on Gambetta, 59000 Lille",
+  "restaurantTypes":[
+   {
+    "name":"Restaurant tha\u00ef"
+   }
+  ],
+  "restaurantService":[
+   {
+    "name":"Accessibilit\u00e9",
+    "details":[
+     "Entr\u00e9e accessible en fauteuil roulant",
+     "Places assises accessibles en fauteuil roulant"
+    ]
+   },
+   {
+    "name":"Services disponibles",
+    "details":[
+     "Livraison sans contact",
+     "Livraison",
+     "Vente \u00e0 emporter",
+     "Repas sur place"
+    ]
+   },
+   {
+    "name":"Offre",
+    "details":[
+     "Alcools",
+     "Bi\u00e8re",
+     "Caf\u00e9s",
+     "Cocktails et ap\u00e9ritifs",
+     "Convient aux v\u00e9g\u00e9tariens",
+     "Petites portions \u00e0 partager",
+     "Produits sains",
+     "Spiritueux",
+     "Vin"
+    ]
+   },
+   {
+    "name":"Services de restauration",
+    "details":[
+     "D\u00e9jeuner",
+     "D\u00eener",
+     "Traiteur",
+     "Desserts",
+     "Places assises"
+    ]
+   },
+   {
+    "name":"Services",
+    "details":[
+     "Toilettes",
+     "Toilettes non genr\u00e9es"
+    ]
+   },
+   {
+    "name":"Ambiance",
+    "details":[
+     "Chaleureux",
+     "D\u00e9contract\u00e9"
+    ]
+   },
+   {
+    "name":"Client\u00e8le",
+    "details":[
+     "Groupes"
+    ]
+   },
+   {
+    "name":"Planning",
+    "details":[
+     "R\u00e9servations accept\u00e9es"
+    ]
+   },
+   {
+    "name":"Paiements",
+    "details":[
+     "Cartes de cr\u00e9dit",
+     "Cartes de paiement",
+     "Paiements mobiles NFC",
+     "Pluxee",
+     "Titres restaurant",
+     "Cartes de cr\u00e9dit"
+    ]
+   },
+   {
+    "name":"Enfants",
+    "details":[
+     "Convient aux enfants"
+    ]
+   },
+   {
+    "name":"Parking",
+    "details":[
+     "Parking payant dans la rue"
+    ]
+   }
+  ],
+  "website":"https:\/\/monpetitthai.com",
+  "lat":50.6287788,
+  "long":3.0524568,
+  "phone":"0320315474",
+  "restaurantHours":[
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":"vendredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" samedi"
+   },
+   {
+    "openingTime":"11:30",
+    "closingTime":"14:30",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" dimanche"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" mardi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" mercredi"
+   },
+   {
+    "openingTime":"12:00",
+    "closingTime":"14:30",
+    "dayOfWeek":" jeudi"
+   },
+   {
+    "openingTime":"19:00",
+    "closingTime":"22:30",
+    "dayOfWeek":" jeudi"
+   }
+  ]
+ }
+]
